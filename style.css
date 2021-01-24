@@ -112,6 +112,17 @@ nav ul li ul li a:hover {
 }
 
 
+.q {
+	text-align: center;
+	color: white;
+	font-size: 70px;
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.w {
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 20px;
+}
 
 /*------featured categories-----*/
 
